@@ -1,0 +1,25 @@
+{
+  "name": "tecnicas_programacao",
+  "version": "1.0.0",
+  "description": "projeto aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgfarias/Tecnicas_Programacao.git"
+  },
+  "keywords": [
+    "projeto",
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Pedro Gabriel Silva Farias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgfarias/Tecnicas_Programacao/issues"
+  },
+  "homepage": "https://github.com/pgfarias/Tecnicas_Programacao#readme"
+}
